@@ -1,10 +1,1 @@
-hello
-hello
-hello
-hello
-hello
-hello
-word
-how are you
-333
-66
+觅集问题收集系统
